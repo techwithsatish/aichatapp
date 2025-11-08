@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Chat from "./pages/Chat";
 
+
 import ComparePDFs from "./pages/ComparePDFs";
 import SummarizePDF from "./pages/SummarizePDF";
 import './App.css'
